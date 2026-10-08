@@ -116,36 +116,6 @@ The application uses:
 
 > **Security Note:** Firebase configuration and credentials should be handled carefully when publishing a project publicly. Never commit private API keys, passwords, service-account files, or other sensitive credentials.
 
-## 📦 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-```
-
-### 2. Open the project
-
-```bash
-cd my_notes
-```
-
-### 3. Install dependencies
-
-```bash
-flutter pub get
-```
-
-### 4. Configure Firebase
-
-Connect the project to your own Firebase project and configure the required Firebase services.
-
-### 5. Run the application
-
-```bash
-flutter run
-```
-
 ## 🎯 Project Goals
 
 This project was developed to gain practical experience with:
@@ -174,5 +144,4 @@ Flutter Developer in Progress 🚀
 
 ---
 
-⭐ If you find this project useful, feel free to explore the code and give the repository a star.
-
+⭐ 
